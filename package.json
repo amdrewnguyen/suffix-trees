@@ -1,0 +1,14 @@
+{
+  "name": "suffix-trees",
+  "version": "1.0.0",
+  "description": "JS implementation of suffix tree algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
